@@ -1,2 +1,2 @@
-# ikon_trainee
-IKON Software Engineering Trainee
+# IKON Software Engineering Trainee Batch 2
+### Mentee : Muhammad Aditya Fathur Rahman
