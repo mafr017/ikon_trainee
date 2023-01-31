@@ -17,6 +17,6 @@ echo "ALTA Automate Script Challenge"
 ```
 > Execute automate script
 ```shell
-$ ./automate aditya muhammadaditya.fathurrahman madityafr
+$ ./automate aditya madityafrfb madityafrlinkedin
 ```
 ![Alt text](p2.png?raw=true "Execute automate")
